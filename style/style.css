@@ -1,0 +1,27 @@
+@import url('/style/reset.css');
+
+.container {
+  margin-top: 20px;
+}
+
+.container__title {
+  font-size: 24px;
+
+  text-align: center;
+}
+
+.container__list {
+  margin-top: 20px;
+
+  display: flex;
+  justify-content: center;
+
+  gap: 20px;
+}
+
+.container__list-li {
+}
+
+.list__li-ref {
+  font-size: 20px;
+}
